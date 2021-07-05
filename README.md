@@ -2,11 +2,14 @@
 - 👀 I’m interested in ...
 web development currently.
 - 🌱 I’m currently learning ...
-, in Summer 2021, about web development. I've done FreeCodeCamp and is currently working on a web application and learning from other sources, such as OdinProject.
+, in Summer 2021, about web development. I've done FreeCodeCamp and am currently working on a web application to help students and learning from other sources, such as OdinProject.
 - 💞️ I’m looking to collaborate on ...
-anything. I am open to learn about anything. :)
-- 📫 How to reach me ...
-LinkedIn: https://www.linkedin.com/in/hoanglinh99/
+anything. I am open to learn about everything. :)\
+**I am also currently looking for an Software Developer/Front-end/Back-end/FullStack internship.**
+- 🖥️ I'm comfortable coding in ... \
+Java, HTML, CSS, Javascript, (Python, C)
+- 📫 How to reach me ...\
+LinkedIn: https://www.linkedin.com/in/hoanglinh99/ \
 E-mail: linh.hoangtt99@gmail.com
 
 <!---
