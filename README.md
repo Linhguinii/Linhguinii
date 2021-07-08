@@ -5,7 +5,7 @@ web development currently.
 , in Summer 2021, about web development. I've done FreeCodeCamp and am currently working on a web application to help students and learning from other sources, such as OdinProject.
 - 💞️ I’m looking to collaborate on ...
 anything. I am open to learn about everything. :)\
-**I am also currently looking for an Software Developer/Front-end/Back-end/FullStack internship.**
+**I am also currently looking for a Software Developer/Front-end/Back-end/FullStack internship.**
 - 🖥️ I'm comfortable coding in ... \
 Java, HTML, CSS, Javascript, (Python, C)
 - 📫 How to reach me ...\
