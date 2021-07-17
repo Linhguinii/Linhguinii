@@ -7,7 +7,7 @@ web development currently.
 anything. I am open to learn about everything. :)\
 **I am also currently looking for a Software Developer/Front-end/Back-end/FullStack internship.**
 - 🖥️ I'm comfortable coding in ... \
-Java, HTML, CSS, Javascript, (Python, C)
+Java, HTML, CSS, Javascript, React, Bootstrap(Python, C)
 - 📫 How to reach me ...\
 LinkedIn: https://www.linkedin.com/in/hoanglinh99/ \
 E-mail: linh.hoangtt99@gmail.com
