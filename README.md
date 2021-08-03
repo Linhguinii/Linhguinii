@@ -17,8 +17,3 @@ Java, Python, C, HTML, CSS, Javascript, React, Bootstrap
 LinkedIn: https://www.linkedin.com/in/hoanglinh99/ \
 E-mail: linh.hoangtt99@gmail.com
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Linhguinii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linhguinii)](https://github.com/anuraghazra/github-readme-stats)
-</details>
