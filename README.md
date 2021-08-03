@@ -1,3 +1,8 @@
+<!---
+Linhguinii/Linhguinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 - 👋 &nbsp; Hi, I’m @Linhguinii
 - 👀 &nbsp; I’m interested in ...
 web development currently.
@@ -12,7 +17,8 @@ Java, Python, C, HTML, CSS, Javascript, React, Bootstrap
 LinkedIn: https://www.linkedin.com/in/hoanglinh99/ \
 E-mail: linh.hoangtt99@gmail.com
 
-<!---
-Linhguinii/Linhguinii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  [![Linhguinii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linhguinii)](https://github.com/anuraghazra/github-readme-stats)
+</details>
