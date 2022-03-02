@@ -9,7 +9,7 @@ software development currently.
 - 🌱 &nbsp; I’m currently learning ...
 in school o7
 - 💞️ &nbsp; I’m looking to collaborate on ...
-anything. I am open to learn about everything. :)\
+anything. I am open to learn about everything. :)
 - 🖥️ &nbsp; I'm comfortable coding in ... \
 Java, Python, C, HTML, CSS, Javascript, React, Bootstrap
 - 📫 &nbsp; How to reach me ...\
